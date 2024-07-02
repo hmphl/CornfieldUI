@@ -1,4 +1,4 @@
-CornfieldUI
+CumfyUI
 =======
 The most powerful and modular stable diffusion GUI and backend.
 -----------
